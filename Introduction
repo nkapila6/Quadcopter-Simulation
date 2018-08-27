@@ -7,6 +7,6 @@ We intend to use these advancements by developing a simulation model for a Quadr
 
 The motion is predicted by taking into consideration the electronic voltages being supplied to each of the 4 rotors. When the voltages being provided to the motors are altered, the corresponding motion changes because a change in voltage indicates a change in the speed of the motor.
 
-In first part of this project, we focus on converting basic mechanical models into simulated models using Simulink so that we get a better understanding of what we’re working on. Simultaneously, we also try to understand the motion in the Quadrotor system by analyzing it’s equations. [2] We also have a further understanding about the degrees of freedom in a Quadrotor.
+In first part of this project, we focus on converting basic mechanical models into simulated models using Simulink so that we get a better understanding of what we’re working on. Simultaneously, we also try to understand the motion in the Quadrotor system by analyzing it’s equations. We also have a further understanding about the degrees of freedom in a Quadrotor.
 
 By presenting this project, we hope to gain a good insight into mechanical model making using Simulink and enhance this in the future using various other techniques. 
